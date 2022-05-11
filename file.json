@@ -1,0 +1,67 @@
+{
+    "ads": {
+		"admob": {
+			"bannerIds": ["ca-app-pub-3940256099942544/6300978111"],
+			"interIds": ["ca-app-pub-3940256099942544/1033173712"],
+			"nativeIds": ["ca-app-pub-3940256099942544/2247696110"],
+			"rewardIds": ["ca-app-pub-3940256099942544/5224354917"]
+		},
+		"applovin": {
+			"bannerId": " ",
+			"interId": " ",
+			"nativeId": "",
+			"rewardId": " "
+		},
+    	"ironsource": {
+    		"appkey": "85460dcd"
+    	},
+    	"unity": {
+    	    "gameId": "4549113",
+            "bannerIds": ["Banner_Android"],
+            "interIds": ["Interstitial_Android"],
+            "rewardIds": ["Rewarded_Android"]
+    	},
+    	"fan": {
+            "bannerIds": ["IMG_16_9_APP_INSTALL#1587134361639957_1593182061035187"],
+            "interIds": ["VID_HD_9_16_39S_APP_INSTALL#919241315399859_919241352066522"],
+            "rewardIds": ["VID_HD_9_16_39S_APP_INSTALL#919241315399859_919241362066521"],
+            "nativeIds": ["VID_HD_9_16_39S_APP_INSTALL#919241315399859_919241978733126"]
+    	},
+    	"settings": {
+    		"banners": "admob",
+    		"inters": "admob",
+    		"nativees": "",
+    		"rewards": ""
+    	}
+	},
+    "config" : {
+	    "package" : "com.fakecallfordaddy.daddy",
+	    "policy" : "https://sites.google.com/view/fakecalldaddy",
+	    "email" : "reihan.elyashiv01@gmail.com",
+	    "isLock" : false,
+	    "developer" : "https://play.google.com/store"
+	},
+	"item" : [
+	    {
+	        "name": "Ali",
+			"country" : "India",
+			"tele" : "73-435-3535-353-646",
+			"photo": "https://drive.google.com/uc?export=download&id=16h7ld0DInJTLnRJFzsTalzIKZqOV_Wr_",
+			"video_url": "https://drive.google.com/u/0/uc?id=17J1jPQ_f_XfSgdaR0CYKwD4EcPi0m_28&export=download#.mp4"
+		},
+		{
+			"name": "Mohamed",
+			"country" : "Italy",
+			"tele" : "73-435-3535-353-646",
+			"photo": "https://drive.google.com/uc?export=download&id=16h7ld0DInJTLnRJFzsTalzIKZqOV_Wr_",
+			"video_url": "https://drive.google.com/u/0/uc?id=17J1jPQ_f_XfSgdaR0CYKwD4EcPi0m_28&export=download#.mp4"
+		},
+		{
+			"name": "Hamza",
+			"country" : "Maroc",
+			"tele" : "73-435-3535-353-646",
+			"photo": "https://drive.google.com/uc?export=download&id=16h7ld0DInJTLnRJFzsTalzIKZqOV_Wr_",
+			"video_url": "https://drive.google.com/u/0/uc?id=17J1jPQ_f_XfSgdaR0CYKwD4EcPi0m_28&export=download#.mp4"
+		}
+	]
+}
